@@ -1,0 +1,40 @@
+Qui a inventé l’ampoule électrique en 1879 ?°
+En géométrie, quel adjectif qualifie un triangle dont deux côtés sont égaux ?°
+Qu’est-ce qui est l’inverse de la résistance électrique?°
+Quelle est l’unité de l’intensité du courant électrique ?°
+Cl est un symbole chimique. Lequel ?°
+Quel est le nom courant de l’acide acétylsalicylique ?°
+Je donne des coups à tout le monde, mais je suis
+toujours le bienvenu et je ne peux pas passer inaperçu dans le monde.°
+Elle se donne sans se perdre ?°
+Quel nombre poursuit cette suite ?1, 2, 2, 4, 8, 32, 256, ...°
+Ils sont 5 frères, le plus grand est celui du milieu. Qui sont-ils ?°
+Quel est le chiffre le plus grand du monde ?°
+Dans une ferme on retrouve 4 lapins, 2 vaches, 14 personnes, 6 canards et 4 chiens.
+Combien y a t-il de pattes ?°
+2 / 10 / 12 / 17 / 18 / 19 / ? Quel est le prochain nombre dans cette suite logique ?°
+Alexis a des billes, toutes sont oranges sauf deux, toutes sont jaunes sauf deux,
+et toutes sont violettes sauf deux.
+Combien Alexis a-t-il de billes oranges, jaunes et violettes ?°
+on veut prouver que si x=1, alors x=0. x=1 donc x²=x,
+x²-1=x-1,
+(x²-1)/(x-1)=x-1/x-1,
+x+1=1, et x=0,
+Quelle est la ligne qui correspond à l'erreur de cette justification?°
+2+2=
+#fin#
+edison°
+isocèle°
+conductance°
+ampère°
+chlore°
+aspirine°
+soleil°
+flamme°
+8192°
+doigts°
+9°
+52°
+200°
+3°
+4
